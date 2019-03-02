@@ -46,10 +46,17 @@ This is Pitch Axis
 
 
 Ch1 A (Roll ) ==ppm[0]
+
 Ch2 E (Pitch ) ==ppm[1]
+
 Ch3 T (Throttle ) ==ppm[2]
+
 Ch4 R (Yaw ) ==ppm[3]
+
 Ch5 AUX1 (Arm) == ppm[4]
+
 Ch6 AUX2 (NOT SET) == ppm[5]
+
 Ch7 AUX3 (NOT SET) == ppm[6]
+
 Ch8 AUX4 (NOT SET) == ppm[7]
