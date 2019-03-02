@@ -13,8 +13,26 @@ PPM Output is on Pin 3
 
 # Compatible MultiProtocol Modules
 
-Links Comming Soon
+Arduino Sheild Required 
+http://bit.ly/2GVD3vW
 
+Arduino Uno
+http://bit.ly/2Xzztg3
+
+
+Only these Modules are compatible 
+This One Recomended
+http://bit.ly/2VwhvJu
+
+http://bit.ly/2IFFQXT
+
+
+R9M CPPM Mode
+http://bit.ly/2NFzMkF
+
+
+# YouTube Video Tutorial
+https://youtu.be/4QKKIAVuhNs
 
 # Default Mapping
 
