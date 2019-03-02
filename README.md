@@ -19,6 +19,7 @@ Links Comming Soon
 # Default Mapping
 
 Channel Mapping is AETR1234 (Can be Modified)
+Configured for 8 Channels You can modify if you know what your are doing.
 
 
 # Some Notes
@@ -33,17 +34,15 @@ Pitch and Roll:
 The Left joytsitck
 
 Useful Note:
-The pitch axis is inverted when you map defualt however I have inverted it to make it work lik a normal RC transmitter
+The pitch axis is inverted when you map defualt however I have inverted it to make it work like a normal RC transmitter
 
-Notice the last 2 numbers in the funtion this is how to invert it you will not need by defaul this should work in AETR Mode
+Notice the last 2 numbers in the map funtion, this is how we invert it..
 
 This is Roll Axis
  ppm[0] = map(PS3.getAnalogHat(RightHatX), 0 , 255, 1000, 2000);
  
 This is Pitch Axis
  ppm[1] = map(PS3.getAnalogHat(RightHatY), 0 , 255, 2000, 1000);
-
-
 
 
 Ch1 A (Roll ) ==ppm[0]
