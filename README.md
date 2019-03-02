@@ -2,20 +2,26 @@
 USB Joystick To PPM Arduino
 
 
-Download Library First 
+# Download Library First 
+
+Download 
 https://github.com/felis/USB_Host_Shield_2.0/archive/master.zip
 
+# Connections
 
 PPM Output is on Pin 3 
 
-Compatible MultiProtocol Modules
+# Compatible MultiProtocol Modules
+
+Links Comming Soon
 
 
-
-
-
+# Default Mapping
 
 Channel Mapping is AETR1234 (Can be Modified)
+
+
+# Some Notes
 
 Throttle: 
 L2 button on the PS3 Controller
